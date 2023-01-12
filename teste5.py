@@ -1,3 +1,3 @@
-parrot = "Norwegian Blue"
-for i in parrot:
-    print (i)
+print("helllllllo")
+
+print(10)
